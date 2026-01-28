@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mumtaaz Fruit Market",
+  "description": "A high-end fresh fruit grocery shopping application featuring AI-powered nutritional insights and a seamless mobile-first shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
